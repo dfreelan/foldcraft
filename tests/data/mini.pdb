@@ -1,0 +1,48 @@
+HEADER    DE NOVO PROTEIN                         16-NOV-26   1FCX
+TITLE     SYNTHETIC HELICAL PENTAPEPTIDE WITH A BOUND ZINC ION AND A
+TITLE    2 SHORT SECOND CHAIN
+EXPDTA    X-RAY DIFFRACTION
+REMARK   2 RESOLUTION.    1.80 ANGSTROMS.
+SEQRES   1 A    5  MET LYS VAL LEU ALA
+SEQRES   1 B    2  GLY GLY
+CRYST1   40.000   50.000   60.000  90.00  90.00  90.00 P 21 21 21    4
+ATOM      1  N   MET A   1       0.000   0.000   0.000  1.00 10.00           N
+ATOM      2  CA  MET A   1       1.458   0.000   0.000  1.00 10.50           C
+ATOM      3  C   MET A   1       2.009   1.422   0.000  1.00 11.00           C
+ATOM      4  O   MET A   1       2.910   1.743   0.776  1.00 11.50           O
+ATOM      5  CB  MET A   1       1.994  -0.772  -1.207  1.00 12.00           C
+ATOM      6  N   LYS A   2       1.463   2.263  -0.872  1.00 10.00           N
+ATOM      7  CA  LYS A   2       1.899   3.650  -0.974  1.00 10.00           C
+ATOM      8  C   LYS A   2       1.768   4.370   0.364  1.00 10.00           C
+ATOM      9  O   LYS A   2       2.693   5.057   0.797  1.00 10.00           O
+ATOM     10  CB  LYS A   2       1.096   4.387  -2.048  1.00 10.00
+ATOM     11  N   VAL A   3       0.618   4.205   1.008  1.00 10.00           N
+ATOM     12  CA  VAL A   3       0.364   4.838   2.297  1.00 10.00           C
+ATOM     13  C   VAL A   3       1.421   4.443   3.323  1.00 10.00           C
+ATOM     14  O   VAL A   3       1.958   5.298   4.027  1.00 10.00           O
+ATOM     15  CB AVAL A   3      -1.030   4.469   2.810  0.60 10.00           C
+ATOM     16  CB BVAL A   3      -1.130   4.569   2.910  0.40 10.00           C
+ATOM     17  N   LEU A   3A      1.711   3.149   3.398  1.00 10.00           N
+ATOM     18  CA  LEU A   3A      2.704   2.639   4.337  1.00 10.00           C
+ATOM     19  C   LEU A   3A      4.057   3.309   4.126  1.00 10.00           C
+ATOM     20  O   LEU A   3A      4.696   3.743   5.085  1.00 10.00           O
+ATOM     21  CB  LEU A   3A      2.841   1.121   4.200  1.00 10.00           C
+ATOM     22  N   ALA A   4       4.484   3.388   2.870  1.00 10.00           N
+ATOM     23  CA  ALA A   4       5.761   4.005   2.531  1.00 10.00           C
+ATOM     24  C   ALA A   4       5.830   5.442   3.035  1.00 10.00           C
+ATOM     25  O   ALA A   4       6.823   5.846   3.640  1.00 10.00           O
+ATOM     26  CB  ALA A   4       5.991   3.965   1.019  1.00 10.00           C
+TER      27      ALA A   4
+HETATM   28 ZN    ZN A 101      -3.000   6.000   2.000  1.00 20.00          ZN2+
+HETATM   29  O   HOH A 201      -5.000   1.000   1.000  1.00 30.00           O
+HETATM   30  O   HOH A 202       8.000   8.000   8.000  0.50 35.00           O
+ATOM     31  N   GLY B   1      20.000   0.000   0.000  1.00 15.00           N
+ATOM     32  CA  GLY B   1      21.458   0.000   0.000  1.00 15.00           C
+ATOM     33  C   GLY B   1      22.009   1.422   0.000  1.00 15.00           C
+ATOM     34  O   GLY B   1      22.910   1.743   0.776  1.00 15.00           O
+ATOM     35  N   GLY B   2      21.463   2.263  -0.872  1.00 15.00           N
+ATOM     36  CA  GLY B   2      21.899   3.650  -0.974  1.00 15.00           C
+ATOM     37  C   GLY B   2      21.768   4.370   0.364  1.00 15.00           C
+ATOM     38  O   GLY B   2      22.693   5.057   0.797  1.00 15.00           O
+TER      39      GLY B   2
+END
